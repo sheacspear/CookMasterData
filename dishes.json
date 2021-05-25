@@ -1,1 +1,17 @@
-{}
+{
+  "dishes": [
+    {
+      "id": 1,
+      "description": "Манка",
+      "ingredients": [
+        {
+          "id": 1,
+          "title": "Крупа",
+          "description": "Вкусная",
+          "weight": 100,
+          "items": 1
+        }
+      ]
+    }
+  ]
+}
